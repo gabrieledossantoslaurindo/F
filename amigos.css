@@ -1,0 +1,33 @@
+header {
+    background: #1b1b1a65 ;
+    padding: 20px 0;
+}
+caixa{positivo:relative;
+    widtn: 940px;
+    margin: 0px;
+}
+    nav{positivo:absolute;
+         right:0;}
+        nav;li{display:inline 
+            margin:0 0 015;}
+            nav a{text-transform: uppercase;
+            color: chartreuse ;
+            font-weight:bold ;
+            font-size: 22px ;
+            text-decoration: none;}
+            nav a:hover{
+
+                    color: aquamarine;
+                    text-decoration: ;
+                    underzine;
+                    
+
+            }
+
+
+
+        }
+
+
+
+}
